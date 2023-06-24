@@ -22,7 +22,7 @@ print("La suma de los enteros impares del 0 al 500,000 es:", impares)
 for numero in range(2018, -1, -4):
     print(numero)
 
-lowNum = 2
+    lowNum = 2
 highNum = 9
 mult = 3
 
